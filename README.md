@@ -25,4 +25,3 @@ este es un proyecto en el que estaremos trabajando con JS
 - Cuarto paso: integrar JS con HTML
 # curso-practico-javascript
 
-## Prueba de GIT
